@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[4,1,6,11]},{"code":105,"indent":1,"parameters":[2,false]},{"code":405,"indent":1,"parameters":["周元富正在睡觉，无法使用技能……"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":2},
+{"id":2,"list":[{"code":355,"indent":0,"parameters":["// 获取第一个敌人并调整位置和缩放"]},{"code":655,"indent":0,"parameters":["let enemy = $gameTroop.members()[0];  // 获取第一个敌人"]},{"code":655,"indent":0,"parameters":["if (enemy && enemy.sprite) {"]},{"code":655,"indent":0,"parameters":["    enemy.sprite.scale.x = 0.5;  // 缩小敌人宽度（50%）"]},{"code":655,"indent":0,"parameters":["    enemy.sprite.scale.y = 0.5;  // 缩小敌人高度（50%）"]},{"code":655,"indent":0,"parameters":["    enemy.sprite.x = -300;  // 将敌人移动到屏幕左侧"]},{"code":655,"indent":0,"parameters":["}"]},{"code":0,"indent":0,"parameters":[]}],"name":"战斗事件","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
