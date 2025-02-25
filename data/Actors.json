@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"周元富（初始）","characterIndex":0,"characterName":"周元富（初始）","classId":6,"equips":[6,1,0,3,0],"faceIndex":0,"faceName":"周元富（初始）","traits":[{"code":51,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"周元富","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"江无敌","characterIndex":0,"characterName":"江无敌行走","classId":5,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"江无敌","traits":[{"code":43,"dataId":18,"value":1},{"code":41,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"江无敌","nickname":"","note":"<Replace Attack: 20>\n","profile":""}
+{"id":2,"battlerName":"江无敌","characterIndex":0,"characterName":"江无敌行走","classId":5,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"江无敌","traits":[{"code":43,"dataId":18,"value":1}],"initialLevel":1,"maxLevel":99,"name":"江无敌","nickname":"","note":"<Replace Attack: 20>\n","profile":""}
 ]

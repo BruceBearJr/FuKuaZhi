@@ -13,5 +13,5 @@ var $plugins =
 {"name":"CustomLogo","status":true,"description":"Shows RPG Maker and user logos at the start of the game.","parameters":{"logo1":"","logo1ImageName":"MadeWithMv","logo1Skippable":"true","logo1Coordinate":"","logo1X":"408","logo1Y":"312","logo1Origin":"0.5","logo1Time":"","logo1FadeinFrames":"12","logo1FadeoutFrames":"12","logo1DurationFrames":"120","logo2":"","logo2ImageName":"","logo2Skippable":"true","logo2Coordinate":"","logo2X":"408","logo2Y":"312","logo2Origin":"0.5","logo2Time":"","logo2FadeinFrames":"12","logo2FadeoutFrames":"12","logo2DurationFrames":"120","logo3":"","logo3ImageName":"","logo3Skippable":"true","logo3Coordinate":"","logo3X":"408","logo3Y":"312","logo3Origin":"0.5","logo3Time":"","logo3FadeinFrames":"12","logo3FadeoutFrames":"12","logo3DurationFrames":"120","allowTotalSkip":"true"}},
 {"name":"EquipSkill","status":true,"description":"让武器装备时自动赋予技能，卸下后移除技能。","parameters":{}},
 {"name":"EnemyTriggerDeath","status":true,"description":"让特定技能对特定敌人造成 HP 归零","parameters":{}},
-{"name":"StealPlugin","status":true,"description":"","parameters":{}}
+{"name":"StealPlugin","status":false,"description":"","parameters":{}}
 ];
