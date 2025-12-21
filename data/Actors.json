@@ -1,8 +1,10 @@
 [
 null,
-{"id":1,"battlerName":"周元富（初始）","characterIndex":0,"characterName":"周元富（初始）","classId":1,"equips":[6,1,0,3,0],"faceIndex":0,"faceName":"周元富（初始）","traits":[{"code":51,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"周元富","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"江无敌","characterIndex":0,"characterName":"江无敌行走","classId":2,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"江无敌","traits":[{"code":43,"dataId":18,"value":1},{"code":41,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"江无敌","nickname":"","note":"<Replace Attack: 20>\n","profile":""},
+{"id":1,"battlerName":"周元富（初始）","characterIndex":0,"characterName":"周元富（初始）","classId":1,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"周元富（初始）","traits":[],"initialLevel":5,"maxLevel":99,"name":"周元富","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"江无敌","characterIndex":0,"characterName":"江无敌行走","classId":2,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"江无敌","traits":[{"code":23,"dataId":0,"value":2}],"initialLevel":5,"maxLevel":99,"name":"江无敌","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"黑老褚战斗","characterIndex":0,"characterName":"黑老褚行走","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"黑老褚","traits":[],"initialLevel":99,"maxLevel":99,"name":"黑老褚","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"白老李战斗","characterIndex":0,"characterName":"白老李行走","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"李老白","traits":[],"initialLevel":99,"maxLevel":99,"name":"白老李","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"毛奶战斗","characterIndex":0,"characterName":"毛奶行走","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"毛奶真人版","traits":[{"code":43,"dataId":25,"value":1}],"initialLevel":1,"maxLevel":99,"name":"毛奶","nickname":"","note":"","profile":""}
+{"id":5,"battlerName":"毛奶战斗","characterIndex":0,"characterName":"毛奶行走","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"毛奶真人版","traits":[{"code":43,"dataId":25,"value":1}],"initialLevel":1,"maxLevel":99,"name":"毛奶","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
